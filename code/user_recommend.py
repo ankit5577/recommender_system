@@ -1,4 +1,5 @@
 import pandas as pd
+import tensorflow as tf
 
 ratings = pd.read_csv('ml-100k/u.data', sep='\t', names=['user_id', 'movie_id', 'rating'], usecols=range(3), encoding="ISO-8859-1")
 movies = pd.read_csv('ml-100k/u.item', sep='|', names=['movie_id', 'title'], usecols=range(2), encoding="ISO-8859-1")
@@ -31,3 +32,6 @@ for i in range(0, len(fakeUserRatings.index)):
 simCandidates.sort_values(inplace = True, ascending = False)
 # top 20 recommended movies should be -
 simCandidates.head(20)
+
+
+
