@@ -88,7 +88,7 @@ This is an example of how to list things you need to use the software and how to
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/ankit5577/upgrade-python-packages.git
+   git clone https://github.com/ankit5577/recommender_system.git
    ```
 2. Go to Folder
     ```
