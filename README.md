@@ -44,29 +44,48 @@ This repository holds user & item based recommender systems in python 🧑🏽�
 
 ### Built With
 - Python3
+- pandas
+- numpy
+- scipy
+- tensorflow
 
 <!-- GETTING STARTED -->
 ## Getting Started
- - Maths before AI / ML is must 🐒
+you need a computer/laptop 🐒
 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
 * python - [https://www.python.org/downloads/](https://www.python.org/downloads/)
+* Machine Learning libraries _tensorflow, pandas, numpy, scipy, nltk_:
+    ```sh
+    pip install tensorflow, pandas, scipy, numpy, nltk
+    ```
 
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/ankit5577/recommender_system.git
+   git clone https://github.com/ankit5577/upgrade-python-packages.git
    ```
-2. Run
-   ```sh
-   python upgrade.py
+2. Go to Folder
+    ```
+    cd code
+    ```
+3. Run Python File
+   ```
+   for user based recommender system
+   python user_recommend.py
+   
+   for item based recommender system
+   python item_based_filtering.py
+   
+   mixed recommender
+   python recommender_system.py
    ```
    
 <!-- USAGE EXAMPLES -->
 ## Usage
-`clone the repo > run the file > let it update 🧑🏽‍💻`
+`clone the repo > run the recommender you want > let it train & run 🧑🏽‍💻`
 
 <!-- CONTRIBUTING -->
 ## Contributing
