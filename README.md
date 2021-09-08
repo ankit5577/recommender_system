@@ -60,9 +60,9 @@ Collaborative Recommender system, Content-based recommender system, Demographic 
     <br>
    ```python
    if len(dataset > 100,000,000):
-        itemBasedRecommender() # 🤧
-   else:
         userBasedRecommender() # 🤡
+   else:
+        itemBasedRecommender() # 🤧
    ```
 
 ### Built With
