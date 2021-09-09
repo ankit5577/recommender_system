@@ -91,18 +91,18 @@ This is an example of how to list things you need to use the software and how to
    git clone https://github.com/ankit5577/recommender_system.git
    ```
 2. Go to Folder
-    ```
+    ```sh
     cd code
     ```
 3. Run Python File
-   ```
-   for user based recommender system
+   ```sh
+   # for user based recommender system
    python user_recommend.py
    
-   for item based recommender system
+   # for item based recommender system
    python item_based_filtering.py
    
-   mixed recommender
+   # mixed recommender
    python recommender_system.py
    ```
    
