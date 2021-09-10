@@ -39,22 +39,20 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This repository holds user & item based recommender systems in python 🧑🏽‍💻. 
+This repository holds user & item-based recommender systems in python 🧑🏽‍💻. 
 
 ### what is a recommender system? 🤔
 Recommender systems are the systems that are designed to recommend things to the user based on many different factors
-
-Types of recommender systems:
-Collaborative Recommender system, Content-based recommender system, Demographic based recommender system, Utility based recommender system, Knowledge based recommender system and Hybrid recommender system & many more 🐣
+Types of recommender systems: Collaborative Recommender system, Content-based recommender system, Demographic-based recommender system, Utility-based recommender system, Knowledge-based recommender system, and Hybrid recommender system & many more 🐣
 
 ### Types covered in this repository
- - Item Based 📱: form of collaborative filtering for recommender systems based on the similarity between items calculated using people's ratings of those items.
- - User Based 🙋‍♂️: model find relation between user to user & check probability of item getting selected by particular user.
+ - Item Based 📱: a form of collaborative filtering for recommender systems based on the similarity between items calculated using people's ratings of those items.
+ - User-Based 🙋‍♂️: model finds the relation between user to user & check the probability of item getting selected by the particular user.
  - Hybrid 👽: model find relations between items first then relations b/w users.
     <br>
     in short
    <br>
-   It works as a item based recommender system first & after it switches to user based recommender.
+   It works as an item-based recommender system first & after it switches to a user-based recommender.
    <br>
     still confused? 🥲
     <br>
@@ -90,7 +88,6 @@ code/
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * python - [https://www.python.org/downloads/](https://www.python.org/downloads/)
 * Machine Learning libraries _tensorflow, pandas, numpy, scipy, nltk_:
     ```sh
