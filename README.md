@@ -64,6 +64,8 @@ Collaborative Recommender system, Content-based recommender system, Demographic 
    else:
         itemBasedRecommender() # 🤧
    ```
+### Dataset
+we will be using MovieLens data set, which consists of 100,000 movies along with ratings.
 
 ### Built With
 - Python3 🐍
@@ -75,6 +77,16 @@ Collaborative Recommender system, Content-based recommender system, Demographic 
 <!-- GETTING STARTED -->
 ## Getting Started
 you need a computer/laptop 🐒
+
+### Structure
+```
+code/
+┣ ml-100k/                          # movie dataset
+┣ item_based_filtering.py           # item based recommender system
+┣ predict_rating.py                 # predict rating of a movie based on user
+┣ recommender_system.py             # normal recommender system
+┣ user_recommend.py                 # user based recommender system
+```
 
 ### Prerequisites
 
