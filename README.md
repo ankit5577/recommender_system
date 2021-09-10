@@ -3,9 +3,9 @@
     <h1 align="center">Recommender Systems 👨🏼‍💻</h1>
 
   <p align="center">
-    <a href="https://github.com/ankit5577/recommender_system/issues">Report Bug</a>
+    <a href="https://github.com/ankit5577/recommender_system/issues">Report Bug 🐛</a>
     ·
-    <a href="https://github.com/ankit5577/recommender_system/issues">Request Feature</a>
+    <a href="https://github.com/ankit5577/recommender_system/issues">Request Feature 🐣</a>
   </p>
 </p>
 
@@ -56,7 +56,7 @@ Collaborative Recommender system, Content-based recommender system, Demographic 
    <br>
    It works as a item based recommender system first & after it switches to user based recommender.
    <br>
-    still confused?
+    still confused? 🥲
     <br>
    ```python
    if len(dataset > 100,000,000):
@@ -66,11 +66,11 @@ Collaborative Recommender system, Content-based recommender system, Demographic 
    ```
 
 ### Built With
-- Python3
-- pandas
-- numpy
-- scipy
-- tensorflow
+- Python3 🐍
+- pandas 🐼
+- numpy 🧠
+- scipy ⚛️
+- tensorflow 🤖
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -108,7 +108,7 @@ This is an example of how to list things you need to use the software and how to
    
 <!-- USAGE EXAMPLES -->
 ## Usage
-`clone the repo > run the recommender you want > let it train & run 🧑🏽‍💻`
+`clone the repo 👉 run the recommender you want 👉 let it train & run 🧑🏽‍💻`
 
 <!-- CONTRIBUTING -->
 ## Contributing
